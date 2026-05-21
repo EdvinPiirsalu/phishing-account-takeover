@@ -56,7 +56,7 @@ The incident was detected and contained rapidly, preventing confirmed financial 
 
 ## Files
 
-* incident-report-hotel-larambla.pdf
+[View Incident Report PDF](LINK_HERE)(https://github.com/EdvinPiirsalu/phishing-account-takeover/blob/main/Cybersecurity_Incident_Report_001_Hotel_La_Rambla.pdf)
 
 ---
 
